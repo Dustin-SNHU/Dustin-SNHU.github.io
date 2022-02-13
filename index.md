@@ -1,2 +1,5 @@
 ## [Code Review](https://dustin-snhu.github.io/code_review)
-The original code review performed against the artificat I enhanced as part of my SNHU capstone course.
+
+[![Code Review Video](https://youtu.be/qOXmMAzpbtE)](https://youtu.be/qOXmMAzpbtE "SNHU Code Review")
+
+The original code review performed against the artifact I enhanced as part of my SNHU capstone course.
