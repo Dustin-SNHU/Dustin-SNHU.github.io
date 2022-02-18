@@ -2,7 +2,7 @@
 
 ## Code Review
 
-[![Code Review Video](https://youtu.be/qOXmMAzpbtE)](https://youtu.be/qOXmMAzpbtE "SNHU Code Review")
+[Video Code Review Link](https://youtu.be/qOXmMAzpbtE)
 
 The original code review performed against the artifact I enhanced as part of my SNHU capstone course.
 
