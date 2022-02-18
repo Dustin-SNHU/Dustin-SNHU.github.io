@@ -2,8 +2,6 @@
 
 ## Code Review
 
-<a class="github-button" href="https://dustin-snhu.github.io/code_review" data-icon="octicon-play" aria-label="Use this GitHub Action Dustin-SNHU/github.io on GitHub">Use this GitHub Action</a>
-
 ### [Video Code Review](https://youtu.be/qOXmMAzpbtE)
 
 The original code review performed against the artifact I enhanced as part of my SNHU capstone course. Contained in this video is a presentation of the artifact that I chose to enhance during my SNHU capstone course. The review covers three major topics:
