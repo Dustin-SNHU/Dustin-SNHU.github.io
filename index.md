@@ -9,7 +9,18 @@ The original code review performed against the artifact I enhanced as part of my
 2. Code Analysis
 3. Planned Enhancements
 
+## Original Artifact
+
+
 ## Enhanced Artifact
 
 
 ## Narratives
+
+### Software Design and Engineering
+
+
+### Algorithm and Data Structures
+
+
+### Database
