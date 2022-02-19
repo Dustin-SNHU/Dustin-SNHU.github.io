@@ -18,7 +18,7 @@ My accomplishments for this course and how they apply to each requirement are as
 	- Allowing data retrieval after the application is closed and re-opened.
 	- Array organization so that CRUD (create, read update, and delete) operations can be performed against the local database.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 ### ePortfolio Pages
 #### [Home](https://dustin-snhu.github.io)
