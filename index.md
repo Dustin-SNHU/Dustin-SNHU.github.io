@@ -18,12 +18,12 @@ My accomplishments for this course and how they apply to each requirement are as
 	- Allowing data retrieval after the application is closed and re-opened.
 	- Array organization so that CRUD (create, read update, and delete) operations can be performed against the local database.
 
-## ePortfolio Pages
-### Home
-### [Code Review](https://dustin-snhu.github.io/code_review)
-### Original Artifact
-### Enhanced Artifact
-### Narratives
+### ePortfolio Pages
+#### [Home](https://dustin-snhu.github.io)
+#### [Code Review](https://dustin-snhu.github.io/code_review)
+#### Original Artifact
+#### Enhanced Artifact
+#### Narratives
 To demonstrate my understanding of Computer Science, I chose to create a new application for use on iOS devices. The purpose of this application is to allow a user to perform CRUD (create, read, update, and delete) functions on a task list. This application was created in Xcode using the Swift programming language. This platform and language were primarily chosen because it gave me an opportunity to learn a new skill while showcasing my understanding of software development.
 
 The following sections will provide examples of my jounrey in creating this application and design decisions that lead to the final product.
