@@ -10,8 +10,8 @@ The original code review performed against the artifact I enhanced as part of my
 <hr style="border:2px solid gray"> </hr>
 
 ### ePortfolio Pages
-#### [Home](https://dustin-snhu.github.io)
-#### [Code Review](https://dustin-snhu.github.io/code_review)
-#### Original Artifact
-#### Enhanced Artifact
-#### Narratives
+[Home](https://dustin-snhu.github.io)
+[Code Review](https://dustin-snhu.github.io/code_review)
+Original Artifact
+Enhanced Artifact
+Narratives
