@@ -10,7 +10,7 @@ The original code review performed against the artifact I enhanced as part of my
 <hr style="border:2px solid gray">
 
 **ePortfolio Pages**<br>
-[Home](https://dustin-snhu.github.io)<br>
+[Self-Assessment](https://dustin-snhu.github.io)<br>
 [Code Review](https://dustin-snhu.github.io/code_review)<br>
 [Original Artifact](https://dustin-snhu.github.io/original_artifact)<br>
 [Enhanced Artifact](https://dustin-snhu.github.io/enhanced_artifact)<br>
