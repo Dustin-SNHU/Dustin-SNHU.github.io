@@ -21,11 +21,11 @@ My accomplishments for this course and how they apply to each requirement are as
 <hr style="border:2px solid gray">
 
 ### ePortfolio Pages
-[Home](https://dustin-snhu.github.io)
-[Code Review](https://dustin-snhu.github.io/code_review)
-Original Artifact
-Enhanced Artifact
-Narratives
+[Home](https://dustin-snhu.github.io)<br>
+[Code Review](https://dustin-snhu.github.io/code_review)<br>
+[Original Artifact]()<br>
+[Enhanced Artifact]()<br>
+[Narratives]()
 
 To demonstrate my understanding of Computer Science, I chose to create a new application for use on iOS devices. The purpose of this application is to allow a user to perform CRUD (create, read, update, and delete) functions on a task list. This application was created in Xcode using the Swift programming language. This platform and language were primarily chosen because it gave me an opportunity to learn a new skill while showcasing my understanding of software development.
 
