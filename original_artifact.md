@@ -1,4 +1,13 @@
-## Original Artifact
+## Original Artifact: [Android Task Application](https://github.com/Dustin-SNHU/AndroidTask)<br>
+
+### Description
+The original artifact used as the starting point for my capstone enhancement project. This project was originally created solely in Android Studio and not uploaded to GitHub until the project was completed.
+
+### Overview
+_Needs additional information_
+
+### Reflection
+_Needs additional information_
 
 
 
