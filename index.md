@@ -22,7 +22,7 @@ My accomplishments for this course and how they apply to each requirement are as
 
 <hr style="border:2px solid gray">
 
-### ePortfolio Pages
+**ePortfolio Pages**<br>
 [Home](https://dustin-snhu.github.io)<br>
 [Code Review](https://dustin-snhu.github.io/code_review)<br>
 [Original Artifact](https://dustin-snhu.github.io/original_artifact)<br>
