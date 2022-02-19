@@ -23,7 +23,7 @@ My accomplishments for this course and how they apply to each requirement are as
 
 ### [Video Code Review](https://youtu.be/qOXmMAzpbtE)
 
-<iframe width="560" height="315" src="https://youtu.be/qOXmMAzpbtE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qOXmMAzpbtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The original code review performed against the artifact I enhanced as part of my SNHU capstone course. Contained in this video is a presentation of the artifact that I chose to enhance during my SNHU capstone course. The review covers three major topics:
 
