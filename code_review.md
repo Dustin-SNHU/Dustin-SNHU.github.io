@@ -6,3 +6,10 @@ The original code review performed against the artifact I enhanced as part of my
 1. Existing Functionality
 2. Code Analysis
 3. Planned Enhancements
+
+### ePortfolio Pages
+#### [Home](https://dustin-snhu.github.io)
+#### [Code Review](https://dustin-snhu.github.io/code_review)
+#### Original Artifact
+#### Enhanced Artifact
+#### Narratives
