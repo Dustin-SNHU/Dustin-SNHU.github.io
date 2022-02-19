@@ -1,6 +1,8 @@
 ## Self-Assessment
 As a Computer Science student, I found myself working on many different types of projects and solving problems that I would not normally have. My final capstone course was no exception as I chose to showcase the skills I developed throughout several different courses. Application development had always been something that fascinated me, but I did not realize that I had the capacity to create something new from scratch until I challenged myself in this final course. When presented with the choice of a way to showcase my skills in computer science, I reviewed past terms and found that the skills I gained in IT-390: Mobile App Design and Development prepared me most adequately for this opportunity.
+	
 In this course, I developed a mobile application that replicated a task list that could run on an Android phone. While I did not create the entire application from scratch, there were many problem-solving techniques that I needed to use to finish the final product. The capstone course requirements tasked me with creating one or more artifacts that displayed my skills in three key areas. These areas were software design and engineering, algorithm and data structures, and database. Enhancing this Android application would allow me to fulfill all these requirements while also pushing me to learn what it takes to build a mobile application from the ground up. 
+	
 My accomplishments for this course and how they apply to each requirement are as follows:
 
 - Design and Engineering
