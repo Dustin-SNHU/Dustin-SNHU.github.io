@@ -14,4 +14,4 @@ The original code review performed against the artifact I enhanced as part of my
 [Code Review](https://dustin-snhu.github.io/code_review)<br>
 [Original Artifact](https://dustin-snhu.github.io/original_artifact)<br>
 [Enhanced Artifact](https://dustin-snhu.github.io/enhanced_artifact)<br>
-[Narratives](https://dustin-snhu.github.io/narratives)
+[Journals](https://dustin-snhu.github.io/journals)
