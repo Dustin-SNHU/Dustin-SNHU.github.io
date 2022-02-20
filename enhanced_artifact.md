@@ -64,7 +64,7 @@ The above two examples represent how the application handles the addition and re
 The final goal of mine was to clean up the user interface and make an application that looks presentable and something you would see on the App Store. I accomplished this by working with the different styles available in SwiftUI. A screen recording of the final product can be viewed below.
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/o4pGAJIfTDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<i>Artifact 1 - TooDoo2 Demo_</i></p>
+<i>Artifact 1 - TooDoo2 Demo</i></p>
 
 
 ### Reflection
