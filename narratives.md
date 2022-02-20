@@ -1,17 +1,17 @@
-##Naratives
+## Naratives
 
 To demonstrate my understanding of Computer Science, I chose to create a new application for use on iOS devices. The purpose of this application is to allow a user to perform CRUD (create, read, update, and delete) functions on a task list. This application was created in Xcode using the Swift programming language. This platform and language were primarily chosen because it gave me an opportunity to learn a new skill while showcasing my understanding of software development.
 
-The following sections will provide examples of my jounrey in creating this application and design decisions that lead to the final product.
+The following sections will provide examples of my journey in creating this application and design decisions that lead to the final product.
 
 #### Software Design and Engineering
-
+_Additional information needed_
 
 #### Algorithm and Data Structures
-
+_Additional information needed_
 
 #### Database
-
+_Additional information needed_
 
 <hr style="border:2px solid gray">
 
