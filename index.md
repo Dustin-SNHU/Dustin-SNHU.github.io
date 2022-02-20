@@ -27,4 +27,4 @@ My accomplishments for this course and how they apply to each requirement are as
 [Code Review](https://dustin-snhu.github.io/code_review)<br>
 [Original Artifact](https://dustin-snhu.github.io/original_artifact)<br>
 [Enhanced Artifact](https://dustin-snhu.github.io/enhanced_artifact)<br>
-[Narratives](https://dustin-snhu.github.io/narratives)
+[Journals](https://dustin-snhu.github.io/journals)
