@@ -68,6 +68,13 @@ The final goal of mine was to clean up the user interface and make an applicatio
 
 
 ### Reflection
+This project tested my skills, but I believe I have created a product that I can show off to peers and future employers alike. It achieves all the goals I set out to complete in my original proposal for this artifact enhancement. The skills that I obtained with this project and throughout my school career will set me up for future opportunities in the Computer Science field. In addition, I have proven to myself that I can create an application on both iOS and Android platforms. This could lead to side opportunities that I may not have considered in the past.
+
+While the application does complete the goals that I set out, there are still areas where it could be improved. One major topic in the capstone course was regarding security. In today’s landscape it is extremely to make sure that anything developed for a computing device is secure from external risks such as identity theft and ransomware. These security features were not necessarily tested against in my code. Due to time constraints and the entire rework of the project, this is one area that I could not tackle. 
+
+Another what this application could be enhanced is the use of more specific internal application tests. This was neglected due to time constraints as well, but it is an important topic to cover. To test my application, I ran it and verified all the functions worked as I expected. Where this type of testing falls short is in the time it takes and what it covers. An enhancement here could help avoid memory leaks and mishandled inputs. 
+
+This will very unlikely be the last application I develop. I have aspirations of creating personal projects and enhancing my skills for a potential professional career in the field as well.  
 
 <hr style="border:2px solid gray">
 
