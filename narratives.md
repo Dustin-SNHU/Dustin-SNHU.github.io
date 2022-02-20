@@ -4,14 +4,12 @@ To demonstrate my understanding of Computer Science, I chose to create a new app
 
 The following sections will provide examples of my journey in creating this application and design decisions that lead to the final product.
 
-#### Software Design and Engineering
-_Additional information needed_
-
-#### Algorithm and Data Structures
-_Additional information needed_
-
-#### Database
-_Additional information needed_
+### Journals
+[2-1 Journal - What Makes a Productive Code Review.docx](https://github.com/Dustin-SNHU/Dustin-SNHU.github.io/files/8104635/2-1.Journal.-.What.Makes.a.Productive.Code.Review.docx)<br>
+[3-1 Journal - Marketing With ePortfolios and Artifact Update.docx](https://github.com/Dustin-SNHU/Dustin-SNHU.github.io/files/8104638/3-1.Journal.-.Marketing.With.ePortfolios.and.Artifact.Update.docx)<br>
+[4-1 Journal - Career Choice and Artifact Update.docx](https://github.com/Dustin-SNHU/Dustin-SNHU.github.io/files/8104639/4-1.Journal.-.Career.Choice.and.Artifact.Update.docx)<br>
+[5-1 Journal - Computer Science Trends.docx](https://github.com/Dustin-SNHU/Dustin-SNHU.github.io/files/8104641/5-1.Journal.-.Computer.Science.Trends.docx)<br>
+[6-1 Journal - Emerging Technology.docx](https://github.com/Dustin-SNHU/Dustin-SNHU.github.io/files/8104642/6-1.Journal.-.Emerging.Technology.docx)
 
 <hr style="border:2px solid gray">
 
